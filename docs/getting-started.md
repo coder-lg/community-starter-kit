@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-Welcome to the repository!
+Welcome to the repository! If your issue is related to a bug, you can label it!
